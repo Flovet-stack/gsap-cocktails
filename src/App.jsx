@@ -11,7 +11,7 @@ const App = () => {
     <main>
       <Navbar />
       <Hero />
-      <div className="h-screen"></div>
+      <div className="h-screen"></div> 
     </main>
   )
 }
